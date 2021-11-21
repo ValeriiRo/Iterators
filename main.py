@@ -1,11 +1,7 @@
 nested_list = [
 	['a', 'b', 'c'],
-	['3', 4],
-	[1, 2, 'can'],
 	['d', 'e', 'f'],
 	[1, 2, None],
-	[1],
-	[2, 3, 'rewrewr', 3, 4, 432, 5435],
 ]
 
 class FlatIterator:
